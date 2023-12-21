@@ -15,6 +15,16 @@ O Potência Teck iFood é um projeto que demonstra a aplicação prática de té
 
 ## Capturas de Tela
 
+![Alt text](./assets/images/images-md/image.png)
+
+![Alt text](./assets/images/images-md/image-1.png)
+
+![Alt text](./assets/images/images-md/image-2.png)
+
+![Alt text](./assets/images/images-md/image-3.png)
+
+![Alt text](./assets/images/images-md/image-4.png)
+
 
 
 ## Como Executar o Projeto
@@ -23,3 +33,13 @@ O Potência Teck iFood é um projeto que demonstra a aplicação prática de té
 
 ```bash
 git clone https://github.com/seu-usuario/potencia-teck-ifood.git
+```
+
+2. Abra o arquivo index.html com um navegador de sua preferência.
+
+
+Aprecie a experiência visual criada com as técnicas de estilização em CSS.
+
+## Contribuições
+Contribuições são bem-vindas! Sinta-se à vontade para abrir uma issue ou criar um pull request.
+
